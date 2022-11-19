@@ -1,0 +1,289 @@
+Walking speed measurements;;;;;;;;;;
+ID ;Start time;End time;Total time;Speed (km/h);Gender;Age;Road class;Place;Notes;Data collector
+1;5;19;14.0;5.14;Female;Adult;2;Arabia;;Elias
+2;15;56;41.0;1.76;Female;Elderly;2;Arabia;with a kid;Elias
+3;17;32;15.0;4.80;Male;Adult;2;Arabia;;Elias
+4;00;14;14.0;5.14;Male;Adult;2;Arabia;;Elias
+5;39;59;20.0;3.60;Male;Adult;2;Arabia;;Elias
+6;09;25;16.0;4.50;Male;Elderly;2;Arabia;;Elias
+7;29;41;12.0;6.00;Male;Adult;2;Arabia;;Elias
+8;45;57;12.0;6.00;Male;Adult;2;Arabia;;Elias
+9;29;49;20.0;3.60;Male;Young adult;2;Arabia;;Elias
+10;48;62;14.0;5.14;Female;Adult;2;Arabia;;Elias
+11;15;30;15.0;4.80;Male;Adult;2;Arabia;;Elias
+12;52;66;14.0;5.14;Female;Adult;2;Arabia;;Elias
+13;11;24;13.0;5.54;Female;Adult;2;Arabia;;Elias
+14;26;39;13.0;5.54;Female;Adult;2;Arabia;;Elias
+15;31;50;19.0;3.79;Female;Elderly;2;Arabia;;Elias
+16;43;58;15.0;4.80;Female;Young adult;2;Arabia;;Elias
+17;23;43;20.0;3.60;Female;Elderly;2;Arabia;;Elias
+18;07;35;28.0;2.57;Female;Elderly;2;Arabia;with a stroller;Elias
+19;01;16;15.0;4.80;Female;Adult;2;Arabia;;Elias
+20;46;62;16.0;4.50;Male;Adult;2;Arabia;;Elias
+21;06;19;13.0;5.54;Female;Adult;2;Arabia;;Elias
+22;13;26;13.0;5.54;Female;Adult;2;Arabia;;Elias
+23;26;38;12.0;6.00;Female;Adult;2;Arabia;;Elias
+24;36;50;14.0;5.14;Male;Adult;2;Arabia;;Elias
+25;33;46;13.0;5.54;Male;Adult;2;Arabia;;Elias
+26;32;45;13.0;5.54;Male;Adult;2;Arabia;;Elias
+27;12;27;15.0;4.80;Female;Adult;2;Arabia;;Elias
+28;27;43;16.0;4.50;Female;Adult;2;Arabia;;Elias
+29;54;68;14.0;5.14;Female;Adult;2;Arabia;;Elias
+30;37;52;15.0;4.80;Female;Adult;2;Arabia;;Elias
+31;56;73;17.0;4.24;Male;Adult;2;Arabia;;Elias
+32;28;42;14.0;5.14;Male;Adult;2;Arabia;;Elias
+33;39;59;20.0;3.60;Male;Elderly;2;Arabia;;Elias
+34;40;60;20.0;3.60;Male;Adult;2;Arabia;with a phone;Elias
+35;06;19;13.0;5.54;Female;Young adult;2;Arabia;;Elias
+36;59;73;14.0;5.14;Male;Adult;4;Arabianranta;;Elias
+37;15;31;16.0;4.50;Female;Adult;4;Arabianranta;;Elias
+38;08;22;14.0;5.14;Male;Adult;4;Arabianranta;with a dog;Elias
+39;46;65;19.0;3.79;Male;Adult;4;Arabianranta;;Elias
+40;34;46;12.0;6.00;Female;Adult;4;Arabianranta;;Elias
+41;34;55;21.0;3.43;Female;Kid;4;Arabianranta;;Elias
+42;44;61;17.0;4.24;Female;Elderly;4;Arabianranta;;Elias
+43;59;73;14.0;5.14;Female;Adult;4;Arabianranta;;Elias
+44;06;17;11.0;6.55;Female;Adult;4;Arabianranta;;Elias
+45;07;23;16.0;4.50;Female;Elderly;4;Arabianranta;;Elias
+46;31;46;15.0;4.80;Female;Adult;4;Arabianranta;with  baby carriage ;Elias
+47;24;39;15.0;4.80;Male;Adult;4;Arabianranta;;Elias
+48;05;23;18.0;4.00;Female;Elderly;4;Arabianranta;;Elias
+49;56;72;16.0;4.50;Male;Adult;4;Arabianranta;;Elias
+50;58;74;16.0;4.50;Female;Adult;4;Arabianranta;;Elias
+51;14;28;14.0;5.14;Male;Adult;4;Arabianranta;;Elias
+52;27;42;15.0;4.80;Female;Adult;4;Arabianranta;;Elias
+53;41;58;17.0;4.24;Male;Adult;4;Arabianranta;;Elias
+54;54;68;14.0;5.14;Female;Elderly;4;Arabianranta;;Elias
+55;14;26;12.0;6.00;Female;Adult;4;Arabianranta;;Elias
+56;51;67;16.0;4.50;Female;Elderly;4;Arabianranta;;Elias
+57;07;24;17.0;4.24;Female;Adult;4;Arabianranta;with  baby carriage ;Elias
+58;42;57;15.0;4.80;Female;Elderly;4;Arabianranta;;Elias
+59;22;36;14.0;5.14;Male;Adult;1;Koskelantie;;Elias
+60;54;81;27.0;2.67;Female;Kid;1;Koskelantie;;Elias
+61;12;27;15.0;4.80;Male;Adult;1;Koskelantie;;Elias
+62;05;18;13.0;5.54;Female;Adult;1;Koskelantie;with  baby carriage ;Elias
+63;49;66;17.0;4.24;Male;Adult;1;Koskelantie;;Elias
+64;33;51;18.0;4.00;Female;Adult;1;Koskelantie;;Elias
+65;45;74;29.0;2.48;Female;Elderly;1;Koskelantie;with a stroller;Elias
+66;43;61;18.0;4.00;Male;Young adult;1;Koskelantie;;Elias
+67;41;57;16.0;4.50;Male;Elderly;1;Koskelantie;;Elias
+68;23;48;25.0;2.88;Male;Elderly;1;Koskelantie;;Elias
+69;21;33;12.0;6.00;Female;Adult;1;Koskelantie;;Elias
+70;27;46;19.0;3.79;Female;Adult;1;Koskelantie;with a phone;Elias
+71;30;44;14.0;5.14;Female;Adult;1;Koskelantie;;Elias
+72;31;48;17.0;4.24;Female;Young adult;1;Koskelantie;;Elias
+73;43;57;14.0;5.14;Male;Adult;1;Koskelantie;;Elias
+74;56;69;13.0;5.54;Female;Adult;1;Koskelantie;;Elias
+75;25;37;12.0;6.00;Female;Adult;1;Koskelantie;;Elias
+76;06;17;11.0;6.55;Male;Young adult;1;Koskelantie;;Elias
+77;25;40;15.0;4.80;Female;Adult;1;Koskelantie;with a phone;Elias
+78;30;44;14.0;5.14;Male;Elderly;1;Koskelantie;;Elias
+79;;;13.6;5.29;Male;Adult;2;Toukolankatu, NW;;Christoph
+80;;;17.5;4.11;Male;Young adult;2;Toukolankatu, NW;;Christoph
+81;;;19.0;3.79;Female;Adult;2;Toukolankatu, NW;;Christoph
+82;;;13.6;5.29;Female;Adult;2;Toukolankatu, NW;;Christoph
+83;;;18.2;3.96;Male;Adult;2;Toukolankatu, NW;;Christoph
+84;;;19.0;3.79;Female;Adult;2;Toukolankatu, NW;Vision-impaired;Christoph
+85;;;12.8;5.63;Female;Adult;2;Toukolankatu, NW;;Christoph
+86;;;15.6;4.62;Female;Elderly;2;Toukolankatu, NW;;Christoph
+87;;;15.2;4.74;Male;Adult;2;Toukolankatu, NW;;Christoph
+88;;;17.0;4.24;Male;Elderly;2;Toukolankatu, NW;;Christoph
+89;;;9.6;7.50;Female;Adult;2;Toukolankatu, NW;running towards store entrance;Christoph
+90;;;12.8;5.63;Male;Adult;2;Toukolankatu, NW;;Christoph
+91;;;12.8;5.63;Female;Elderly;2;Toukolankatu, NW;;Christoph
+92;;;14.3;5.03;Male;Adult;2;Toukolankatu, NW;dog, pram;Christoph
+93;;;13.5;5.33;Female;Adult;2;Toukolankatu, NW;;Christoph
+94;;;17.3;4.16;Male;Adult;2;Toukolankatu, NW;;Christoph
+95;;;16.7;4.31;Male;Elderly;2;Toukolankatu, NW;;Christoph
+96;;;14.9;4.83;Male;Elderly;2;Toukolankatu, NW;;Christoph
+97;;;11.9;6.05;Female;Adult;2;Toukolankatu, NW;;Christoph
+98;;;18.2;3.96;Female;Elderly;2;Toukolankatu, NW;;Christoph
+99;;;15.2;4.74;Male;Adult;2;Toukolankatu, NW;;Christoph
+100;;;14.5;4.97;Female;Adult;2;Toukolankatu, NW;;Christoph
+101;;;15.7;4.59;Female;Adult;2;Toukolankatu, NW;;Christoph
+102;;;14.5;4.97;Female;Adult;2;Toukolankatu, NW;pram;Christoph
+103;;;14.0;5.14;Female;Adult;2;Toukolankatu, NW;;Christoph
+104;;;40.1;1.80;Female;Adult;2;Toukolankatu, NW;stopped to check phone;Christoph
+105;;;12.6;5.71;Female;Young adult;2;Toukolankatu, NW;;Christoph
+106;;;12.4;5.81;Female;Young adult;2;Toukolankatu, NW;;Christoph
+107;;;13.9;5.18;Male;Adult;2;Toukolankatu, NW;;Christoph
+108;;;13.9;5.18;Female;Adult;2;Toukolankatu, NW;;Christoph
+109;;;44.3;1.63;Female;Elderly;2;Toukolankatu, NW;using a walker (rollatori);Christoph
+110;;;15.1;4.77;Female;Adult;2;Toukolankatu, NW;pram + kid;Christoph
+111;;;13.3;5.41;Female;Young adult;2;Toukolankatu, NW;;Christoph
+112;;;13.6;5.29;Female;Adult;2;Toukolankatu, NW;;Christoph
+113;;;15.5;4.65;Female;Elderly;2;Toukolankatu, NW;;Christoph
+114;;;16.0;4.50;Male;Adult;2;Toukolankatu, NW;;Christoph
+115;;;13.8;5.22;Male;Elderly;2;Toukolankatu, NW;;Christoph
+116;;;14.3;5.03;Male;Adult;2;Toukolankatu, NW;;Christoph
+117;;;14.5;4.97;Male;Adult;2;Toukolankatu, NW;;Christoph
+118;;;21.9;3.29;Female;Elderly;2;Toukolankatu, NW;;Christoph
+119;;;15.7;4.59;Female;Elderly;2;Toukolankatu, NW;;Christoph
+120;;;13.5;5.33;Male;Elderly;2;Toukolankatu, NW;;Christoph
+121;;;11.3;6.37;Female;Young adult;2;Toukolankatu, NW;;Christoph
+122;;;19.5;3.69;Male;Adult;2;Toukolankatu, NW;;Christoph
+123;;;10.6;6.79;Male;Adult;2;Toukolankatu, NW;;Christoph
+124;;;9.2;7.83;Female;Elderly;2;Toukolankatu, NW;in electric wheelchair;Christoph
+125;;;11.6;6.21;Male;Adult;2;Toukolankatu, NW;;Christoph
+126;;;13.7;5.26;Male;Adult;2;Toukolankatu, NW;;Christoph
+127;;;16.3;4.42;Female;Elderly;2;Toukolankatu, NW;;Christoph
+128;;;12.5;5.76;Female;Adult;4;Arabianranta, waterfront;;Christoph
+129;;;12.0;6.00;Female;Adult;4;Arabianranta, waterfront;pram;Christoph
+130;;;12.0;6.00;Male;Adult;4;Arabianranta, waterfront;pram;Christoph
+131;;;11.0;6.55;Female;Adult;4;Arabianranta, waterfront;pram;Christoph
+132;;;17.0;4.24;Male;Elderly;4;Arabianranta, waterfront;;Christoph
+133;;;13.5;5.33;Female;Adult;4;Arabianranta, waterfront;;Christoph
+134;;;16.1;4.47;Male;Adult;4;Arabianranta, waterfront;;Christoph
+135;;;12.0;6.00;Male;Adult;4;Arabianranta, waterfront;;Christoph
+136;;;13.0;5.54;Female;Adult;4;Arabianranta, waterfront;nordic walking;Christoph
+137;;;13.0;5.54;Female;Adult;4;Arabianranta, waterfront;nordic walking;Christoph
+138;;;16.0;4.50;Male;Adult;4;Arabianranta, waterfront;;Christoph
+139;;;16.0;4.50;Female;Adult;4;Arabianranta, waterfront;;Christoph
+140;;;15.2;4.74;Female;Young adult;4;Arabianranta, waterfront;;Christoph
+141;;;11.0;6.55;Male;Adult;4;Arabianranta, waterfront;sports clothes (but not running);Christoph
+142;;;17.0;4.24;Female;Adult;4;Arabianranta, waterfront;;Christoph
+143;;;15.5;4.65;Female;Elderly;4;Arabianranta, waterfront;;Christoph
+144;;;11.7;6.15;Male;Adult;4;Arabianranta, waterfront;;Christoph
+145;;;14.5;4.97;Male;Adult;4;Arabianranta, waterfront;;Christoph
+146;;;43.5;1.66;Male;Adult;4;Arabianranta, waterfront;stopped to watch a bird;Christoph
+147;;;13.5;5.33;Male;Adult;4;Arabianranta, waterfront;;Christoph
+149;;;13.0;5.54;Female;Young adult;4;Arabianranta, waterfront;;Christoph
+150;;;12.0;6.00;Female;Adult;4;Arabianranta, waterfront;;Christoph
+151;;;11.0;6.55;Female;Elderly;4;Arabianranta, waterfront;;Christoph
+152;;;10.5;6.86;Male;Adult;4;Arabianranta, waterfront;;Christoph
+153;;;13.8;5.22;Female;Adult;4;Arabianranta, waterfront;;Christoph
+154;;;15.1;4.77;Male;Adult;4;Arabianranta, waterfront;;Christoph
+155;;;16.2;4.44;Male;Adult;4;Arabianranta, waterfront;;Christoph
+156;;;16.2;4.44;Female;Adult;4;Arabianranta, waterfront;;Christoph
+158;;;13.0;5.54;Male;Adult;4;Arabianranta, waterfront;;Christoph
+159;;;16.8;4.29;Male;Elderly;4;Arabianranta, waterfront;;Christoph
+160;;;16.8;4.29;Female;Elderly;4;Arabianranta, waterfront;;Christoph
+161;;;16.0;4.50;Female;Elderly;4;Arabianranta, waterfront;;Christoph
+162;;;14.5;4.97;Female;Adult;4;Arabianranta, waterfront;dog;Christoph
+163;;;15.3;4.71;Female;Adult;4;Arabianranta, waterfront;pram, kids;Christoph
+164;;;15.3;4.71;Female;Adult;4;Arabianranta, waterfront;pram, kids;Christoph
+165;;;14.5;4.97;Male;Adult;4;Arabianranta, waterfront;;Christoph
+166;;;14.5;4.97;Female;Adult;4;Arabianranta, waterfront;;Christoph
+167;;;12.7;5.67;Male;Adult;4;Arabianranta, waterfront;;Christoph
+168;;;13.0;5.54;Female;Adult;4;Arabianranta, waterfront;;Christoph
+169;;;13.1;5.50;Male;Adult;1;Koskelantie, S;;Christoph
+170;;;16.0;4.50;Male;Adult;1;Koskelantie, S;;Christoph
+171;;;22.0;3.27;Male;Elderly;1;Koskelantie, S;dog;Christoph
+172;;;14.2;5.07;Male;Young adult;1;Koskelantie, S;;Christoph
+173;;;14.2;5.07;Female;Young adult;1;Koskelantie, S;;Christoph
+174;;;18.1;3.98;Male;Kid;1;Koskelantie, S;;Christoph
+175;;;18.1;3.98;Male;Kid;1;Koskelantie, S;;Christoph
+176;;;15.9;4.53;Female;Adult;4;Koskelantie, centre lane;;Christoph
+177;;;13.1;5.50;Female;Adult;1;Koskelantie, S;;Christoph
+178;;;15.2;4.74;Male;Kid;1;Koskelantie, S;;Christoph
+179;;;16.3;4.42;Male;Young adult;1;Koskelantie, S;;Christoph
+180;;;16.3;4.42;Male;Young adult;1;Koskelantie, S;;Christoph
+181;;;16.3;4.42;Male;Young adult;1;Koskelantie, S;;Christoph
+182;;;14.8;4.86;Female;Young adult;4;Koskelantie, centre lane;;Christoph
+183;;;17.0;4.24;Male;Elderly;1;Koskelantie, S;limping slighlty;Christoph
+184;;;13.3;5.41;Female;Kid;1;Koskelantie, S;;Christoph
+185;;;13.3;5.41;Female;Kid;1;Koskelantie, S;;Christoph
+186;;;21.2;3.40;Male;Elderly;1;Koskelantie, centre lane;;Christoph
+187;;;11.5;6.26;Female;Adult;1;Koskelantie, S;;Christoph
+188;;;14.0;5.14;Female;Adult;1;Koskelantie, S;;Christoph
+189;;;17.0;4.24;Male;Adult;4;Koskelantie, centre lane;;Christoph
+190;;;13.2;5.45;Male;Young adult;4;Koskelantie, centre lane;;Christoph
+191;;;16.6;4.34;Male;Adult;1;Koskelantie, S;;Christoph
+192;;;16.2;4.44;Male;Adult;1;Koskelantie, S;;Christoph
+193;;;13.7;5.26;Female;Adult;1;Koskelantie, S;;Christoph
+194;;;16.2;4.44;Male;Adult;1;Koskelantie, S;;Christoph
+196;;;15.0;4.80;Female;Kid;1;Koskelantie, S;;Christoph
+197;;;14.9;4.83;#N/A;Adult;4;Koskelantie, centre lane;(in working clothes, could have been either m or w);Christoph
+198;;;16.3;4.42;Female;Adult;1;Koskelantie, S;;Christoph
+199;;;22.1;3.26;Male;Adult;1;Koskelantie, S;;Christoph
+200;;;13.5;5.33;Male;Adult;1;Koskelantie, S;;Christoph
+201;;;14.4;4.00;Female;Adult;1;Koskelantie, S;;Christoph
+202;;;21.0;3.43;Female;Elderly;2;Eläintarhantie 3;walking sticks;Elias
+203;;;15.5;4.65;Female;Adult;2;Eläintarhantie 3;;Elias
+204;;;13.5;5.33;Female;Adult;2;Eläintarhantie 3;;Elias
+205;;;12.9;5.58;Female;Adult;2;Eläintarhantie 3;;Elias
+206;;;12.2;5.90;Female;Adult;2;Eläintarhantie 3;;Elias
+207;;;11.9;6.05;Male;Adult;2;Eläintarhantie 3;;Elias
+208;;;13.9;5.18;Female;Adult;2;Eläintarhantie 3;dog;Elias
+209;;;19.5;3.69;Female;Elderly;2;Eläintarhantie 3;;Elias
+210;;;16.3;4.42;Female;Adult;2;Eläintarhantie 3;;Elias
+211;;;17.0;4.24;Male;Adult;2;Eläintarhantie 3;;Elias
+212;;;14.7;4.90;Female;Elderly;2;Eläintarhantie 3;;Elias
+213;;;17.0;4.24;Male;Adult;2;Eläintarhantie 3;;Elias
+214;;;11.8;6.10;Male;Adult;2;Eläintarhantie 3;;Elias
+215;;;12.0;6.00;Female;Adult;2;Eläintarhantie 3;;Elias
+216;;;14.3;5.03;Female;Adult;2;Eläintarhantie 3;dog;Elias
+217;;;16.4;4.39;Male;Adult;2;Eläintarhantie 3;;Elias
+218;;;13.6;5.29;Female;Adult;2;Eläintarhantie 3;;Elias
+219;;;14.5;4.97;Male;Adult;2;Eläintarhantie 3;;Elias
+220;;;13.9;5.18;Male;Adult;2;Eläintarhantie 3;;Elias
+221;;;14.6;4.93;Male;Adult;2;Eläintarhantie 3;;Elias
+222;;;11.2;6.43;Male;Adult;2;Eläintarhantie 3;;Elias
+223;;;13.2;5.45;Female;Adult;2;Eläintarhantie 3;;Elias
+224;;;14.2;5.07;Male;Adult;2;Eläintarhantie 3;;Elias
+225;;;12.9;5.58;Female;Adult;2;Eläintarhantie 3;;Elias
+226;;;11.4;6.32;Male;Adult;2;Eläintarhantie 3;;Elias
+227;;;11.9;6.05;Male;Adult;2;Eläintarhantie 3;;Elias
+228;;;11.6;6.21;Female;Adult;2;Eläintarhantie 3;baby stroller;Elias
+229;;;13.0;5.54;Male;Elderly;2;Eläintarhantie 3;;Elias
+230;;;11.2;6.43;Male;Adult;2;Eläintarhantie 3;;Elias
+231;;;11.6;6.21;Female;Adult;2;Eläintarhantie 3;;Elias
+232;;;13.9;5.18;Female;Elderly;2;Eläintarhantie 3;;Elias
+233;;;12.3;5.85;Female;Adult;2;Eläintarhantie 3;;Elias
+234;;;18.9;3.81;Female;Elderly;2;Eläintarhantie 3;;Elias
+235;;;15.1;4.77;Male;Elderly;2;Eläintarhantie 3;;Elias
+236;;;15.3;4.71;Female;Adult;2;Eläintarhantie 3;;Elias
+237;;;10.4;6.92;Male;Adult;2;Eläintarhantie 3;;Elias
+238;;;13.3;5.41;Female;Adult;2;Eläintarhantie 3;;Elias
+239;;;16.2;4.44;Female;Elderly;2;Eläintarhantie 3;;Elias
+240;;;16.5;4.36;Male;Adult;2;Eläintarhantie 3;;Elias
+241;;;14.4;5.00;Female;Adult;2;Eläintarhantie 3;;Elias
+242;;;11.3;6.37;Male;Adult;2;Eläintarhantie 3;;Elias
+243;;;18.6;3.87;Male;Elderly;2;Eläintarhantie 3;;Elias
+244;;;12.3;5.85;Female;Adult;2;Eläintarhantie 3;baby stroller;Elias
+245;;;15.6;4.62;Male;Adult;2;Eläintarhantie 3;;Elias
+246;;;13.6;5.29;Female;Adult;2;Eläintarhantie 3;;Elias
+247;;;13.3;5.41;Female;Adult;2;Eläintarhantie 3;;Elias
+248;;;16.9;4.26;Male;Adult;2;Eläintarhantie 3;;Elias
+249;;;15.9;4.53;Female;Adult;2;Eläintarhantie 3;;Elias
+250;;;14.5;4.97;Female;Adult;2;Eläintarhantie 3;;Elias
+251;;;19.2;3.75;Female;Elderly;2;Eläintarhantie 3;;Elias
+252;;;18.7;3.85;Male;Elderly;2;Eläintarhantie 3;;Elias
+253;;;12.3;5.85;Male;Adult;2;Eläintarhantie 3;;Elias
+254;;;12.4;5.81;Male;Adult;2;Eläintarhantie 3;;Elias
+255;;;15.0;4.80;Female;Adult;2;Eläintarhantie 3;;Elias
+256;;;11.9;6.05;Male;Adult;2;Eläintarhantie 3;;Elias
+257;;;12.9;5.58;Male;Adult;2;Eläintarhantie 3;;Elias
+258;;;12.9;5.58;Male;Adult;2;Eläintarhantie 3;;Elias
+259;;;13.4;5.37;Female;Adult;2;Eläintarhantie 3;;Elias
+260;;;15.2;4.74;Male;Elderly;2;Eläintarhantie 3;;Elias
+261;;;14.0;5.14;Female;Adult;2;Eläintarhantie 3;;Elias
+262;;;14.7;4.90;Male;Adult;2;Eläintarhantie 3;;Elias
+263;;;15.7;4.59;Male;Elderly;2;Eläintarhantie 3;;Elias
+264;;;21.4;3.36;Female;Elderly;2;Eläintarhantie 3;;Elias
+265;;;11.2;6.43;Female;Elderly;2;Eläintarhantie 3;;Elias
+266;;;12.4;5.81;Female;Adult;2;Eläintarhantie 3;;Elias
+267;;;11.3;6.37;Female;Adult;2;Eläintarhantie 3;;Elias
+268;;;13.4;5.37;Female;Adult;2;Eläintarhantie 3;;Elias
+269;;;14.6;4.93;Female;Adult;2;Eläintarhantie 3;;Elias
+270;;;13.8;5.22;Male;Adult;2;Eläintarhantie 3;;Elias
+271;;;16.0;4.50;Male;Elderly;2;Eläintarhantie 3;;Elias
+272;;;19.4;3.71;Female;Elderly;2;Eläintarhantie 3;walking sticks;Elias
+273;;;12.9;5.58;Male;Adult;2;Eläintarhantie 3;;Elias
+274;;;14.6;4.93;Male;Elderly;2;Eläintarhantie 3;;Elias
+275;;;16.4;4.39;Female;Elderly;2;Eläintarhantie 3;;Elias
+276;;;13.4;5.37;Female;Adult;2;Eläintarhantie 3;;Elias
+277;;;11.8;6.10;Female;Adult;2;Eläintarhantie 3;;Elias
+278;;;12.1;5.95;Male;Adult;2;Eläintarhantie 3;;Elias
+279;;;15.5;4.65;Female;Adult;2;Eläintarhantie 3;;Elias
+280;;;13.3;5.41;Female;Adult;2;Eläintarhantie 3;;Elias
+281;;;10.9;6.61;Female;Adult;2;Eläintarhantie 3;;Elias
+282;;;32.0;2.25;Female;Elderly;2;Eläintarhantie 3;stick;Elias
+283;;;17.9;4.02;Male;Adult;2;Eläintarhantie 3;;Elias
+284;;;17.0;4.24;Male;Adult;2;Eläintarhantie 3;;Elias
+285;;;12.5;5.76;Male;Adult;2;Eläintarhantie 3;;Elias
+286;;;13.3;5.41;Female;Adult;2;Eläintarhantie 3;;Elias
+287;;;17.0;4.24;Male;Elderly;2;Eläintarhantie 3;;Elias
+288;;;14.0;5.14;Female;Adult;2;Eläintarhantie 3;;Elias
+289;;;20.4;3.53;Female;Elderly;2;Eläintarhantie 3;;Elias
+290;;;10.8;6.67;Female;Adult;2;Eläintarhantie 3;;Elias
