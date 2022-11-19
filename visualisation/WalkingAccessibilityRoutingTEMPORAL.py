@@ -355,4 +355,4 @@ metropAccessGrid_PkSeutu_06.to_file("Data\\metropAccessGrid_grocery_22_06.gpkg",
 
 
 #If need to create a geopackage of the graph
-ox.io.save_graph_geopackage(G, filepath="Data\\OSMNX_graph.gpkg", encoding='utf-8', directed=False)
+ox.io.save_graph_geopackage(G, filepath="Data\\OSMNX_graph.gpkg", encoding='utf-8', directed=False) 
