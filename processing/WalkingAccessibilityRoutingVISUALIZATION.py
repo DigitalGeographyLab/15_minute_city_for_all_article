@@ -31,7 +31,7 @@ population_Grid_PkSeutu_06["he_+65"] = population_Grid_PkSeutu_06["he_65_69"] +p
 # Values for cumulative curves
 population_Grid_PkSeutu_17.sort_values(by= "Adult_speed_dry", ascending=True, inplace=True)
 population_Grid_PkSeutu_17["cumu_vakiy_m1"] = population_Grid_PkSeutu_17["he_vakiy"].cumsum()
-population_Grid_PkSeutu_17["cumu_vakiy_pros_m1"] = population_Grid_PkSeutu_17["cumu_vakiy_m1"] /population_Grid_PkSeutu_17["he_vakiy"].sum()*100
+population_Grid_PkSeutu_17["cumu_vakiy_pros_m1"] = population_Grid_PkSeutu_17["cumu_vakiy_m1"] /population_Grid_PkSeutu_17["he_vakiy"].sum()*100 
 
 population_Grid_PkSeutu_17.sort_values(by= "Old_speed_dry", ascending=True, inplace=True)
 population_Grid_PkSeutu_17["cumu_vakiy_m2"] = population_Grid_PkSeutu_17["he_+65"].cumsum()
