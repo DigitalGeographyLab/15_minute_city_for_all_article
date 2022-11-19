@@ -1,7 +1,7 @@
 # 15 minute city for all
 
 Source codes and data that were used to produce the dataset associated with following article: 
-* Reference and the link wiil be listed after the publication
+* Willberg, E., Fink, C. Toivonen, T. (2022). The 15-minute city for all? – Measuring individual and temporal variations in walking accessibility. Submitted to Journal of Transport Geography
 
 ## Data
 Walking speed measurements
@@ -14,7 +14,7 @@ Walking speed measurements
 
 ## Authors
 
-To be updated after the review
+Elias Willberg, Christoph Fink, Tuuli Toivonen
 
 ## License
 
